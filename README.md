@@ -42,7 +42,7 @@ $ python main.py
 
 ## Patterns
 Once you're in the game, pause it and write this:
-![glider](/media/glider.jpeg)
 
+![glider](/media/glider.jpg)
 
-You can watch this [video](https://www.youtube.com/watch?v=C2vgICfQawE) to see the "power" of the game. Pretty awesome, don't you think so?
+Also, you can watch this [video](https://www.youtube.com/watch?v=C2vgICfQawE) to see the "power" of the game. Pretty awesome, don't you think so?
