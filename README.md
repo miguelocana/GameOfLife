@@ -1,6 +1,5 @@
 ![Image description](logo.png)
 
-# John Conway's Game Of Life
 The game of life is the best-known two-dimensional cellular automaton, invented by John H. Conway and popularized in Martin Gardner's *Scientific American* column starting in October 1970. The game of life was originally played (i.e., successive generations were produced) by hand with counters, but implementation on a computer greatly increased the ease of exploring patterns.
 
 The life cellular automaton is run by placing a number of filled cells on a two-dimensional grid. Each generation then switches cells on or off depending on the state of the cells that surround it. The rules are defined as follows:
@@ -33,7 +32,7 @@ You have to run the *main.py* through your terminal like the following code:
 $ python main.py
 ```
 
-#### Controls
+## Controls
 
 **PAUSE / PLAY** -> any key
 
@@ -41,5 +40,5 @@ $ python main.py
 
 *Observations:* If you pause the game, you can fill any cell you want
 
-#### Patterns
+## Patterns
 
