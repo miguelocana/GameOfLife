@@ -13,13 +13,13 @@ With this script, you can just create your own parameters and play with it.
 ## Packages
 *To install the following packages, use the pip command in your terminal.*
 
-#### PyGame
+#### - PyGame
 Pygame is a set of Python modules designed for writing video games. Pygame adds functionality on top of the SDL library. This allows you to create fully featured games and multimedia programs like the Conway's Game of Life.
 
 ```python
 $ pip install pygame
 ```
-#### NumPy
+#### - NumPy
 NumPy is the fundamental package for scientific computing with Python. It's mostly used for working in arrays, linear algebra, fourier transform, and matrices. 
 
 ```python
