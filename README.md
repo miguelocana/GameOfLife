@@ -1,3 +1,5 @@
+![GitHub Logo](/images/logo.png)
+
 # John Conway's Game Of Life
 The game of life is the best-known two-dimensional cellular automaton, invented by John H. Conway and popularized in Martin Gardner's *Scientific American* column starting in October 1970. The game of life was originally played (i.e., successive generations were produced) by hand with counters, but implementation on a computer greatly increased the ease of exploring patterns.
 
@@ -25,12 +27,19 @@ NumPy is the fundamental package for scientific computing with Python. It's most
 $ pip install numpy
 ```
 
-## How to run it?
-Through your terminal, go to the director:
+## How to play:
+You have to run the *main.py* through your terminal like the following code:
+```python
+$ python main.py
+```
 
--$ python main.py
-
-## Controls:
+#### Controls
 
 **PAUSE / PLAY** -> any key
+
 **FILL CELL** -> click mouse
+
+*Observations:* If you pause the game, you can fill any cell you want
+
+#### Patterns
+
