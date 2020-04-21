@@ -41,8 +41,10 @@ $ python main.py
 *Observations:* If you pause the game, you can fill any cell you want
 
 ## Patterns
-Once you're in the game, pause it and write this:
+Once you're in the game, pause it, draw this and play it again:
 
 ![glider](/media/glider.jpg)
 
 Also, you can watch this [video](https://www.youtube.com/watch?v=C2vgICfQawE) to see the "power" of the game. Pretty awesome, don't you think so?
+
+Have fun!
