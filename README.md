@@ -43,7 +43,7 @@ $ python main.py
 ![1](/media/1.jpg)
 
 ## Patterns
-Once you're in the game, pause it, draw this and play it again:
+Once you're in the game, pause it, draw this and play it again (it's a glider):
 
 ![glider](/media/glider.jpg)
 
