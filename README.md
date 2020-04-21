@@ -40,14 +40,14 @@ $ python main.py
 
 *Observations:* If you pause the game, you can fill any cell you want
 
+An image running the game.
+
+![1](/media/1.jpg)
+
 ## Patterns
 Once you're in the game, pause it, draw this and play it again:
 
 ![glider](/media/glider.jpg)
-
-An image running the game:
-
-![1](/media/1.jpg)
 
 Also, you can watch this [video](https://www.youtube.com/watch?v=C2vgICfQawE) to see the "power" of the game. Pretty awesome, don't you think so?
 
