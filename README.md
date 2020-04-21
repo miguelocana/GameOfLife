@@ -38,9 +38,7 @@ $ python main.py
 
 **FILL CELL** -> click mouse
 
-*Observations:* If you pause the game, you can fill any cell you want
-
-An image running the game.
+*Observations:* If you pause the game, you can fill any cell you want... here's an image running the game.
 
 ![1](/media/1.jpg)
 
