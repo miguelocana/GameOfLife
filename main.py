@@ -5,7 +5,7 @@ import time
 pygame.init()
 
 # Ancho y alto de la pantall
-width, height = 1500, 1000
+width, height = 1000, 800
 
 # Se crea la pantalla
 screen = pygame.display.set_mode((width,height))
@@ -26,18 +26,16 @@ dimCH = height/nyC
 # Estado de las celdas (Vivas = 1, Muertas = 0)
 gameState = np.zeros((nxC,nyC))
 
-#%% Autómatas
-
-# Palo
-gameState[5,3] = 1
-gameState[5,4] = 1
-gameState[5,5] = 1
-
+#%% Autómata
+gameState[22,20] = 1
+gameState[24,20] = 1
 gameState[21,21] = 1
-gameState[22,22] = 1
-gameState[22,23] = 1
+gameState[21,22] = 1
 gameState[21,23] = 1
-gameState[20,23] = 1
+gameState[21,24] = 1
+gameState[22,24] = 1
+gameState[23,24] = 1
+gameState[24,23] = 1
 
 # Control de la ejecución del juego
 pauseExect = False
@@ -51,7 +49,7 @@ while True:
     screen.fill(bg)
     
     # Tiempo entre eventos
-    time.sleep(0)
+    time.sleep(0.01)
     
     # Registramos eventos de teclado y ratón
     ev = pygame.event.get()
