@@ -1,4 +1,4 @@
-![GitHub Logo](/images/logo.png)
+![Image description](logo.png)
 
 # John Conway's Game Of Life
 The game of life is the best-known two-dimensional cellular automaton, invented by John H. Conway and popularized in Martin Gardner's *Scientific American* column starting in October 1970. The game of life was originally played (i.e., successive generations were produced) by hand with counters, but implementation on a computer greatly increased the ease of exploring patterns.
